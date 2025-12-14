@@ -5,8 +5,8 @@
 How this program works?
 
 Input cmd
-num1 = the first number entered by the user
-num2 = the second number entered by the user
+num1 = the first number entered by the user.
+num2 = the second number entered by the user.
 
 Process
 1. The program prompts the user to enter two numbers.
@@ -20,10 +20,10 @@ Process
  How this program works?
 
  Input 
- 1 first_name = the first name entered by the user.
- 2 last name = the last name entered by the user.
+ 1. first_name = the first name entered by the user.
+ 2. last name = the last name entered by the user.
  
 Process
-1 It concatenates the first name and last name into a full name with the space in between with the help of " " 
-2 creates a greeting message using the full name 
-3 prints the greeting message to the console.
+1. It concatenates the first name and last name into a full name with the space in between with the help of " " 
+2. creates a greeting message using the full name 
+3. prints the greeting message to the console.
